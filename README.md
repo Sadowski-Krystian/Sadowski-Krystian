@@ -9,6 +9,8 @@ Hi, I'm an introvert, it's hard for me to meet new people and I don't like to ta
 <b>Always be yourself unless you can be a programmer then always be a programmer.</b> 
 
 Invate my doscord bot: soon
+Developed by Sadowski Krystian:
+Originator: Gummun
 
 * 🌍  I'm based in Poland
 * ✉️  You can contact me at [krystek.sadowski@gmail.com](mailto:krystek.sadowski@gmail.com)
