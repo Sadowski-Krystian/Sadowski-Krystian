@@ -8,7 +8,7 @@ Hi, I'm an introvert, it's hard for me to meet new people and I don't like to ta
 
 <b>Always be yourself unless you can be a programmer then always be a programmer.</b> 
 
-Invate my doscord bot: soon
+Invate my doscord bot: soon (looking for free node js hosting 24/7)
 
 Developed by Sadowski Krystian
 
@@ -16,7 +16,7 @@ Originator: Gummun
 
 * 🌍  I'm based in Poland
 * ✉️  You can contact me at [krystek.sadowski@gmail.com](mailto:krystek.sadowski@gmail.com)
-* 🚀  I'm currently working on [Hobby discord bot here is documentadion](http://senkodocs.readthedocs.io/)
+* 🚀  I'm currently working on [Hobby discord bot here is documentation](http://senkodocs.readthedocs.io/)
 
 ### Skills
 
