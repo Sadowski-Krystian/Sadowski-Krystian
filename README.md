@@ -8,7 +8,7 @@ Hi, I'm an introvert, it's hard for me to meet new people and I don't like to ta
 
 <b>Always be yourself unless you can be a programmer then always be a programmer.</b> 
 
-Invite my discord bot: soon (looking for free node js hosting 24/7)
+Invite my discord bot: soon (looking for free node js hosting 24/7) 
 
 Developed by Sadowski Krystian
 
