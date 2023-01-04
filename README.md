@@ -8,15 +8,13 @@ Hi, I'm an introvert, it's hard for me to meet new people and I don't like to ta
 
 <b>Always be yourself unless you can be a programmer then always be a programmer.</b> 
 
-Invite my discord bot: soon (looking for free node js hosting 24/7) 
-
-Developed by Sadowski Krystian
-
-Originator: Gummun
-
+About Me:
+* 💖  Waifu: Senko
+* 😺  Anime and Neko enjoyer
+* 🟪  Fav color: [#E600FF](www.google.com/search?q=%23E600FF)
+* 🎮  Fav Games: Genshin Impact (654298618), Apex
 * 🌍  I'm based in Poland
 * ✉️  You can contact me at [krystek.sadowski@gmail.com](mailto:krystek.sadowski@gmail.com)
-* 🚀  I'm currently working on [Hobby discord bot here is documentation](http://senkodocs.readthedocs.io/)
 
 ### Skills
 
