@@ -11,7 +11,7 @@ Hi, I'm an introvert, it's hard for me to meet new people and I don't like to ta
 About Me:
 * 💖  Waifu: Senko
 * 😺  Anime and Neko enjoyer
-* 🟪  Fav color: [#E600FF](www.google.com/search?q=%23E600FF)
+* 🟪  Fav color: [#E600FF](https://www.google.com/search?q=%23E600FF)
 * 🎮  Fav Games: Genshin Impact (654298618), Apex
 * 🌍  I'm based in Poland
 * ✉️  You can contact me at [krystek.sadowski@gmail.com](mailto:krystek.sadowski@gmail.com)
