@@ -12,7 +12,7 @@ About Me:
 * 💖  Waifu: Senko
 * 😺  Anime and Neko enjoyer
 * 🟪  Fav color: [#E600FF](https://www.google.com/search?q=%23E600FF)
-* 🎮  Fav Games: Genshin Impact (654298618)
+* 🎮  Fav Games: War Thunder
 * 🌍  I'm based in Poland
 * ✉️  You can contact me at [krystek.sadowski@gmail.com](mailto:krystek.sadowski@gmail.com)
 
