@@ -4,8 +4,6 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Don't worry if Plan A fails there are 25 other letters in the alphabet.
 -----------------------------------------------------------------------
 
-Hi, I'm an introvert, it's hard for me to meet new people and I don't like to talk much but I don't care what others say about me. I just am myself. 
-
 <b>Always be yourself unless you can be a programmer then always be a programmer.</b> 
 
 About Me:
