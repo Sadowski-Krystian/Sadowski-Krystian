@@ -29,6 +29,14 @@ About Me:
 
 <p align="left"> <a href="https://discord.com/users/Kri$$u#6297" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://www.github.com/Sadowski-Krystian" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a></p>
 
+<div align="center">
+  <a href="https://count.getloli.com/">
+    <img src="https://count.getloli.com/@reedme?name=reedme&theme=original-new&padding=7&offset=0&align=center&scale=1&pixelated=0&darkmode=auto" height="100">
+  </a>
+</div>
+
+
+
 
 
 <!--
